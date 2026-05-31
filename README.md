@@ -53,9 +53,7 @@ Goal:
 ## 📈 Most Used Languages
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukilkarki&layout=compact&theme=tokyonight" />
-
+<img src="https://skillicons.dev/icons?i=html,css,javascript" />
 </p>
 
 ---
