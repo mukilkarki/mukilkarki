@@ -116,6 +116,9 @@ Goal:
 <a href="https://github.com/mukilkarki">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
+<a href="https://instagram.com/mukilkarki">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
 
 </p>
 
