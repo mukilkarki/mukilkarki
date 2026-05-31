@@ -61,9 +61,7 @@ Goal:
 ## 🏆 Achievement Wall
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mukilkarki&theme=algolia&row=2&column=4" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=mukilkarki&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
