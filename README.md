@@ -42,7 +42,7 @@ Goal:
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mukilkarki&show_icons=true&theme=tokyonight" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mukilkarki&show_icons=true&theme=tokyonight)
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mukilkarki&theme=tokyonight" />
 
@@ -54,9 +54,7 @@ Goal:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukilkarki&layout=compact&theme=tokyonight" />
-
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukilkarki&layout=compact&theme=tokyonight)
 
 ---
 
@@ -64,9 +62,7 @@ Goal:
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mukilkarki&theme=algolia&row=2&column=4" />
-
-</p>
+![Trophies](https://github-profile-trophy.vercel.app/?username=mukilkarki&theme=algolia)
 
 ---
 
@@ -115,6 +111,10 @@ Goal:
 
 <a href="https://github.com/mukilkarki">
 <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://instagram.com/mukilkarki">
+<img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
 </p>
