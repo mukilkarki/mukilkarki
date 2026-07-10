@@ -33,7 +33,7 @@ Goal:
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,html,css,javascript,c,git,github,vscode,linux,figma" />
+<img src="https://skillicons.dev/icons?i=python,html,css,javascript,c,git,github,vscode,linux" />
 </p>
 
 ---
@@ -42,7 +42,7 @@ Goal:
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mukilkarki&show_icons=true&theme=tokyonight" />
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mukilkarki&show_icons=true&theme=tokyonight" /> -->
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mukilkarki&theme=tokyonight" />
 
@@ -60,9 +60,9 @@ Goal:
 
 ## 🏆 Achievement Wall
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=mukilkarki&show_icons=true&theme=tokyonight" />
-</p>
+</p> -->
 
 ---
 
@@ -72,6 +72,7 @@ Goal:
 |----------|-------------|
 | Creovisia | Personal Technology Brand |
 | VoidSEO AI | AI SEO Platform |
+| ECE SPARK | Productivity Platform |
 | Portfolio Website | Personal Portfolio |
 | AI Experiments | Learning & Testing AI |
 | Cyber Labs | Security Practice Projects |
@@ -80,10 +81,10 @@ Goal:
 
 ## 🎯 2026 Goals
 
-- [ ] Master Python
+- [ ] Master Python & C/C++
 - [ ] Learn Cybersecurity Fundamentals
 - [ ] Build Creovisia Website
-- [ ] Launch VoidSEO AI
+- [ ] Launch More Useful Platforms
 - [ ] Contribute to Open Source
 - [ ] Complete 50+ Projects
 
@@ -111,7 +112,7 @@ Goal:
 
 <a href="https://github.com/mukilkarki">
 <img src="https://skillicons.dev/icons?i=github" />
-</a>
+</a> 
 <a href="https://instagram.com/mukilkarki">
 <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
